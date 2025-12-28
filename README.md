@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have completed IT+2<br>Currently studying CSIT<br>I am a tech enthusiast<br>Got knowledge of Graphic Design, Video Editing, Logo Design, Basic Animation<br>Got good english<br>Both hard and smart working<br><br>
+<h1> Wassup! Techies myself Aakash Neupane, Namaste </h1> <br> I have completed IT+2<br>Currently studying CSIT<br>I am a tech enthusiast<br>Got knowledge of Graphic Design, Video Editing, Logo Design, Basic Animation<br>Got good english<br>Both hard and smart working<br><br>
 
 
 ## 🌐 Socials:
