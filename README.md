@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center"> Wassup! Techies<br>
+<h1 align="center"> Wassup! Techies<br>😉
             Namaste, Myself Aakash Neupane</h1> <br> I have completed IT+2<br>Currently studying CSIT<br> Tech Enthusiast<br>Got knowledge of Graphic Design, Video Editing, Logo Design, Basic Animation<br>Got good english<br>Both hard and smart working<br><br>
 
 
