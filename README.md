@@ -12,6 +12,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=neupaneakas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Aakash's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=akkinyu2002&show_icons=true&theme=transparent)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akkinyu2002&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
