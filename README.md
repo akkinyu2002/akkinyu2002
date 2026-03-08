@@ -12,4 +12,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=neupaneakas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akkinyu2002&theme=dark)](https://git.io/streak-stats)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
