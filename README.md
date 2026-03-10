@@ -11,6 +11,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=neupaneakas&icon=0&color=0)](https://visitcount.itsvg.in)
-![GitHub Streak](https://streak-stats.demolab.com?user=akkinyu2002&theme=transparent&locale=ne)
+![GitHub Streak](68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d616b6b696e797532303032267468656d653d7472616e73706172656e74266c6f63616c653d6e65)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
