@@ -11,7 +11,4 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akkinyu2002&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akkinyu2002&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akkinyu2002&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=akkinyu2002&show_icons=true&theme=radical)
