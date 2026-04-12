@@ -1,11 +1,13 @@
-# 💫 About Me:
-<h1 align="center"> Wassup! Techies😜<br>
-            Namaste, Myself Aakash Neupane</h1> <br> I have completed IT+2<br>Currently studying CSIT<br> Tech Enthusiast<br>Got knowledge of Graphic Design, Video Editing, Logo Design, Basic Animation<br>Got good english<br>Both hard and smart working<br><br>
-🎓 IT graduate with a strong interest in AI and software development  
-💡 Passionate about building real-world solutions using technology  
-🧠 Currently exploring Artificial Intelligence and system design  
-🛠️ Working mainly with Python and modern development tools  
-🚀 Focused on improving problem-solving and building impactful projects  
+## 👨‍💻 About Me
+
+- 🎓 Completed IT +2, currently studying CSIT  
+- 💡 Tech enthusiast with interest in AI and software development  
+- 🎨 Skilled in Graphic Design, Video Editing, Logo Design & Basic Animation  
+- 🐍 Working mainly with Python and modern development tools  
+- 🚀 Focused on improving problem-solving and building real-world projects  
+- 💬 Good communication skills in English  
+- ⚡ Hardworking and smart working mindset  
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/akashneupane5) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kvRaMWWT) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Aakash-Nyupane-II/100035705730656/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theskynyupane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-nyupane-4bb97031a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/akashneupane420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakashneupane04@gmail.com) 
