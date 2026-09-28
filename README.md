@@ -1,12 +1,12 @@
 ## 👨‍💻 About Me
 
-- 🎓 Completed IT +2, currently studying CSIT  
-- 💡 Tech enthusiast with interest in AI and software development  
-- 🎨 Skilled in Graphic Design, Video Editing, Logo Design & Basic Animation  
-- 🐍 Working mainly with Python and modern development tools  
-- 🚀 Focused on improving problem-solving and building real-world projects  
-- 💬 Good communication skills in English  
-- ⚡ Hardworking and smart working mindset  
+- Completed IT +2, currently studying CSIT  
+- Tech enthusiast with interest in AI and software development  
+- Skilled in Graphic Design, Video Editing, Logo Design & Basic Animation  
+- Working mainly with Python and modern development tools  
+- Focused on improving problem-solving and building real-world projects  
+- Good communication skills in English  
+- Hardworking and smart working mindset  
 
 
 ## 🌐 Socials:
